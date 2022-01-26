@@ -1,5 +1,5 @@
 ![Development combined with creativity](banner.png)
-#### Visitors:
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/unm4sk/count.svg" />
