@@ -10,8 +10,7 @@ I'm Daniil Lysenko, and I am a student. I enjoy writing code using my favorite p
 * 📱 Flutter
 * 💻 Linux
 
-
-- 🔭 I’m currently working on My YouTube channel & a *secret*, but very **cool** project! 
+🔭 I’m currently working on My YouTube channel & a *secret*, but very **cool** project! 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/unm4sk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/real_unm4sk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCb4If62vIR-SdeC7jQ9_3Ng)  
 
