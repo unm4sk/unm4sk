@@ -1,8 +1,8 @@
 ![Development combined with creativity](banner.png)
 #### Visitors:
-<div align="center">
-![Visitor Count](https://profile-counter.glitch.me/unm4sk/count.svg)
-</div>
+<p align="center">
+<https://profile-counter.glitch.me/unm4sk/count.svg>
+</p>
 # Hi there 👋, I'm Daniil Lysenko
 
 I'm Daniil Lysenko, and I am a student. I enjoy writing code using my favorite programming languages, such as Python, Flutter and C++. Interestingly, I see programming as a universal language, which can help people to make the world brighter, better and simpler. By building my own projects, I try to impact the world in a good way by implementing my knowledge in very serious projects or fun ones.
