@@ -1,7 +1,7 @@
 ![Development combined with creativity](banner.png)
 #### Visitors:
 ![Visitor Count](https://profile-counter.glitch.me/unm4sk/count.svg)
-#### Time coding:
+#### Time spent coding:
 [![wakatime](https://wakatime.com/badge/user/d01d39f8-5fd8-4dbd-aee9-796141b31d80.svg)](https://wakatime.com/@d01d39f8-5fd8-4dbd-aee9-796141b31d80)
 # Hi there 👋, I'm Daniil Lysenko
 
