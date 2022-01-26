@@ -1,5 +1,5 @@
 ![Development combined with creativity](banner.png)
-#### Visitors: ![Visitor Count](https://profile-counter.glitch.me/unm4sk/count.svg)
+#### Visitors: <center>![Visitor Count](https://profile-counter.glitch.me/unm4sk/count.svg)</center>
 
 # Hi there 👋, I'm Daniil Lysenko
 
