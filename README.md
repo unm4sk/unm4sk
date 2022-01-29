@@ -13,8 +13,8 @@ I'm Daniil Lysenko, and I am a student. I enjoy writing code using my favorite p
 
 ## Skills and experience
 * 🐍 Python
-* 🐇 C++
 * 📱 Flutter
+* 🐇 C++
 * 💻 Linux
 
 🔭 I’m currently working on My YouTube channel & a *secret* but a very **cool** project! 
